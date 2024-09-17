@@ -6,7 +6,7 @@
 
 
 ### 🔭 I’m currently working on python, php, lua
-### 🌱 I speak english and french
+### 🌱 I speak english, russian and french
 ### 👯 Open to collaboration opportunities
 
 # Why developer and not astronaut ? 🤖
